@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Almacen/Almacen.vcxproj" Id="da58ac76-5f0f-4458-8cd2-8794548c4885" />
+</Solution>
