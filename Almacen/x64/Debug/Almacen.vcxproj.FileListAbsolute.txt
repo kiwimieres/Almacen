@@ -1,3 +1,0 @@
-C:\Users\sebas\OneDrive\Documentos\proyecto_C\Almacen\Almacen\x64\Debug\Almacen.vcxproj.MdMergeInputs.cache
-C:\Users\sebas\OneDrive\Documentos\proyecto_C\Almacen\Almacen\x64\Debug\Almacen.vcxproj.cppwinrt_plat.cache
-C:\Users\sebas\OneDrive\Documentos\proyecto_C\Almacen\Almacen\x64\Debug\Almacen.vcxproj.cppwinrt_comp.cache
